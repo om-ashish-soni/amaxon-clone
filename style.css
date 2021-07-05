@@ -1,0 +1,45 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+    /* background-color:rgb(230, 230, 230); */
+}
+.login{
+    display:block;
+}
+.signin{
+    display:none;
+}
+header{
+    font-size:36px;
+}
+.close_button{
+    /* float:right; */
+    margin-left:50%;
+}
+body::-webkit-scrollbar {
+  width: 0.5em;
+  /* border-radius:100%; */
+}
+.content{
+    /* float:left; */
+    /* float:right; */
+    /* margin-left:30%; */
+}
+footer{
+    width:98%;
+}
+.burger2{
+    display:none;
+    width:24%;
+    float:left;
+    position:fixed;
+    /* margin-top:20%; */
+
+}
+
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius:16px;
+
+}
